@@ -1,0 +1,9 @@
+.idea
+.ipynb_checkpoints
+#data
+*.pyc
+#*.pdf
+*.model
+*.buffer
+*.txt
+__init__.py
